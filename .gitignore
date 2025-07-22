@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.db
+
+# Virtual environment
+.venv/
+env/
+ENV/
+
+# MyPy / Ruff / Pyre
+.mypy_cache/
+.pyre/
+.ruff_cache/
+.pytest_cache/
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
