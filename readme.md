@@ -29,7 +29,7 @@ A simplified hotel management system that allows guests to register, book rooms,
 Clone the repo and run the setup script:
 
 ```bash
-git clone https://github.com/gautam-chitti/HotelBookingSystem.git
+git clone https://github.com/gautam-chitti/Hotel-Booking.git
 cd hotel-booking
 sh scripts/setup.sh
 ```
